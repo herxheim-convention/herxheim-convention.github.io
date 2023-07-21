@@ -9,8 +9,6 @@ defaultContentLanguage = "de"
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
-# The browser tab name
-
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
 

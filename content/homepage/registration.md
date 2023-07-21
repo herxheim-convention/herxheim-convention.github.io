@@ -10,10 +10,7 @@ Da wir nur begrenzt Schlafplätze zur Verfügung haben – siehe [Übernachtung]
 
 ### Preise
 
-* ab Freitag (3 Tage, 2x Frühstück & Übernachtung): **€ 35**
-* ab Samstag (2 Tage, 1x Frühstück & Übernachtung): **€ 25**
+- ab Freitag (3 Tage, 2x Frühstück & Übernachtung): **€ ??**
+- ab Samstag (2 Tage, 1x Frühstück & Übernachtung): **€ ??**
 
 _Kinder unter 12 Jahren zahlen die Hälfte; Kinder unter 6 Jahren kommen kostenlos auf die Convention._
-
-
-

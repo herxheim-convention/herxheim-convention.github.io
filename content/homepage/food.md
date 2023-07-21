@@ -4,12 +4,10 @@ weight: 40
 header_menu: true
 ---
 
-
-
 ### Frühstück
 
-* vegetarisch & vegan 🌱
-* lecker 😋
+- vegetarisch & vegan 🌱
+- lecker 😋
 
 ### Flammkuchen
 
