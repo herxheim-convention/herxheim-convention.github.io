@@ -10,5 +10,5 @@ header_use_video: false
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "ChaosCon 2023"
-header_subheadline: "Jonglierconvention in <b>Herxheim bei Landau</b>"
+header_subheadline: "<b>October 20</b> to <b>October 22</b> in <b>Herxheim bei Landau</b>"
 ---
