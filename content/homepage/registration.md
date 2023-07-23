@@ -13,4 +13,4 @@ Da wir nur begrenzt Schlafplätze zur Verfügung haben – siehe [Übernachtung]
 - ab Freitag (3 Tage, 2x Frühstück & Übernachtung): **€ ??**
 - ab Samstag (2 Tage, 1x Frühstück & Übernachtung): **€ ??**
 
-_Kinder unter 12 Jahren zahlen die Hälfte; Kinder unter 6 Jahren kommen kostenlos auf die Convention._
+_Kinder unter 12 Jahren zahlen die Hälfte. Kinder unter 6 Jahren kommen kostenlos auf die Convention._
