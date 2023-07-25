@@ -1,0 +1,157 @@
+<style>
+  .chaos-menu {
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+  }
+</style>
+
+<script>
+  function allTextNodes(el) {
+    const result = [];
+    const walk = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null, false);
+    let node;
+    while (node = walk.nextNode()) {
+      result.push(node);
+    }
+    return result;
+  }
+
+  function setCharAt(str, index, chr) {
+    if (index > str.length - 1) return str;
+    return str.substring(0, index) + chr + str.substring(index + 1);
+  }
+
+  /** Shuffles an array using Fisher-Yates Shuffle.
+  */
+  function shuffle(array, startIndex, length) {
+    // TODO: Check boundary.
+
+    let currentIndex = length;
+
+    while (currentIndex !== 0) {
+      const randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+
+      [array[currentIndex + startIndex], array[randomIndex + startIndex]] = [array[randomIndex + startIndex], array[currentIndex + startIndex]]
+    }
+
+    return array;
+  }
+
+  /**
+  * Takes a text element and scrambles each word (separated by whitespaces)
+  * individually.
+  */
+  function scrambleWords(textElement) {
+    const chars = Array.from(textElement.nodeValue)
+
+    // Can be one of "outside" or "inside", depending on whether the cursor is
+    // currently within a word or outside.
+    let state = "outside";
+    let currentStart = null;
+    let currentEnd = null;
+
+
+    // NOTE: We're intentionally making an off-by-one error to handle the case
+    // "end of string" the same way as we handle whitespace.
+    for (let i = 0; i <= chars.length; i++) {
+      // character is whitespace character
+      if (/\s|[,;.:]/.test(chars[i]) || i === chars.length) {
+        if (state === "inside") {
+          // Keeps the first and last character as-is while shuffling all other
+          // characters.
+          if (currentEnd - currentStart > 1) {
+            shuffle(chars, currentStart + 1, currentEnd - currentStart + 1 - 2);
+          }
+
+          state = "outside"
+          currentStart = null;
+          currentEnd = null;
+        } else {
+          // We're already outside a word and found whitespace: Continue.
+        }
+      } else {
+        if (state === "inside") {
+          currentEnd = i;
+        } else {
+          currentStart = i;
+          currentEnd = i;
+          state = "inside";
+        }
+      }
+    }
+
+    textElement.nodeValue = chars.join("");
+  }
+
+  function chaos() {
+    for (let n of allTextNodes(document.body)) {
+      scrambleWords(n)
+    }
+  }
+
+  function unchaos() {
+    const nodes = allTextNodes(document.body);
+    for (let n of nodes) {
+      // TODO: Doesn't work yet.
+      n.elementValue = n.parentElement.getAttribute("data-orig-text");
+    }
+  }
+
+  function saveOriginalText() {
+    const nodes = allTextNodes(document.body);
+
+    for (let n of nodes) {
+      n.parentElement.setAttribute("data-orig-text", n.nodeValue);
+    }
+  }
+
+  function insertChaosButton() {
+    const div = document.createElement("div");
+    div.className = "chaos-menu";
+
+    const button = document.createElement("a");
+    button.id = "chaos-button";
+    button.className = "btn small"
+    button.innerHTML = "Chaos!"
+    button.addEventListener("click", () => {
+      if (isChaosModeEnabled()) {
+        disableChaosMode();
+      } else {
+        enableChaosMode();
+      }
+    })
+
+    div.append(button);
+
+
+    const head = document.getElementById("site-head");
+    head.append(div);
+  }
+
+  function isChaosModeEnabled() {
+    return localStorage.getItem("chaosMode") === "true";
+  }
+
+  function enableChaosMode() {
+    localStorage.setItem("chaosMode", "true");
+    const button = document.getElementById("chaos-button");
+    button.classList.add("active");
+    chaos();
+  }
+
+  function disableChaosMode() {
+    localStorage.setItem("chaosMode", "false");
+    const button = document.getElementById("chaos-button");
+    button.classList.remove("active");
+    unchaos();
+  }
+
+
+  window.addEventListener("load", () => {
+    insertChaosButton();
+    saveOriginalText();
+    disableChaosMode();
+  })
+</script>
