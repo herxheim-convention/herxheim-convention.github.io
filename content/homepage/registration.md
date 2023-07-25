@@ -6,7 +6,7 @@ header_menu: true
 
 Die Anmeldung ist noch nicht eröffnet.
 
-Da wir nur begrenzt Schlafplätze zur Verfügung haben – siehe [Übernachtung](#übernachtung) – solltet ihr euch vorher anmelden. Nur so können wir euch garantieren, dass ihr nachts vier Wände um euch habt.
+Da wir nur begrenzt Schlafplätze zur Verfügung haben – siehe [Übernachtung](#übernachtung) – solltet ihr euch vorher anmelden. Nur so können wir euch garantieren, dass ihr nachts ein Dach über dem Kopf habt.
 
 ### Preise
 

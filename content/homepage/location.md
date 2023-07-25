@@ -15,9 +15,15 @@ Südring 11
 
 {{< osm "//umap.openstreetmap.de/en/map/untitled-map_42925?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false" >}}
 
+---
+
 ### Anreise mit öffentlichen Verkehrsmitteln
 
+Schaut am besten auf {{<extlink icon="fa fa-external-link" text="bahn.de" href="https://www.bahn.de/">}} wie ihr mit dem ÖPNV anreist. Die nächste Bushaltestelle heißt _Herxheim/Ld, Schulzentrum_ und befindet sich direkt neben dem Eingang der Convention.
+
 ### Anreise mit dem Auto
+
+Routenplanung mit {{<extlink icon="fa fa-external-link" text="Google Maps" href="https://goo.gl/maps/v8TTLKuWVkcuB7M69">}}.
 
 #### Parkplätze
 
