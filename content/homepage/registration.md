@@ -10,7 +10,9 @@ Da wir nur begrenzt Schlafplätze zur Verfügung haben – siehe [Übernachtung]
 
 ### Preise
 
-- ab Freitag (3 Tage, 2x Frühstück & Übernachtung): **€ ??**
-- ab Samstag (2 Tage, 1x Frühstück & Übernachtung): **€ ??**
+- Convention-Ticket (3 Tage, 2x Frühstück & Übernachtung): **€ 30**
+- Tagesticket: **€ 10**
+
+Wir bieten auch ein _Soli_-Ticket für **€ 20** an. Gerne in Anspruch nehmen, wenn das Chaos ein Loch in euren Geldbeutel gerissen hat.
 
 _Kinder unter 12 Jahren zahlen die Hälfte. Kinder unter 6 Jahren kommen kostenlos auf die Convention._
