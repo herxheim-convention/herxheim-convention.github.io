@@ -4,6 +4,6 @@ weight: 50
 header_menu: true
 ---
 
-If you have any questions or concerns, feel free to write to us at:
+Confused? Feel free to drop us a mail:
 
 {{< email "mail@landau-jongliert.de" >}}
