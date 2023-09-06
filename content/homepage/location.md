@@ -4,7 +4,7 @@ weight: 25
 header_menu: true
 ---
 
-Wie immer findet das Pälzer Jongliertreffe in **Herxheim bei Landau in der <ins>**Pfalz**</ins>** statt.
+Die ChaosCon findet in **Herxheim bei Landau in der <ins>**Pfalz**</ins>** statt.
 {{<icon class="fa fa-warning">}} Es gibt in der Nähe auch _Herxheim am Berg_, dort dürften nicht ganz so viele Jongleure anzutreffen sein... 😉
 
 ```

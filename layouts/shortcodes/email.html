@@ -1,0 +1,14 @@
+{{ $email := .Get 0 | base64Encode | base64Encode }}
+<i class="fa fa-envelope"></i> <a class="mangled-email" data-email="{{ $email }}">{{ $email }}</a>
+
+<script>
+  for (const link of document.getElementsByClassName("mangled-email")) {
+    const mangledEmail = link.getAttribute("data-email");
+    console.log(mangledEmail);
+
+    const email = atob(atob(mangledEmail));
+
+    link.setAttribute("href", `mailto:${email}`);
+    link.innerHTML = email;
+  }
+</script>

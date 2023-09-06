@@ -23,4 +23,4 @@ Freitag Abend kochen wir eine Kleinigkeit für euch.
 
 ### Flammkuchen
 
-Am Samstag ab _TODO_ Uhr gibt's Flammkuchen!
+Am Samstag gibt's Flammkuchen!
