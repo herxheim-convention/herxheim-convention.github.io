@@ -145,6 +145,10 @@
     chaosModeEnabled = true;
     const button = document.getElementById("chaos-button");
     button.classList.add("active");
+    // Is the chaos button pressed the first time? If so, save the original contents.
+    if (originalContents.size === 0) {
+      saveOriginalText()
+    }
     chaos();
   }
 
@@ -158,6 +162,5 @@
 
   window.addEventListener("load", () => {
     insertChaosButton();
-    saveOriginalText();
   })
 </script>
