@@ -1,7 +1,7 @@
 ---
 title: "Verpflegung"
 weight: 40
-header_menu: true
+header_menu: false
 ---
 
 Soweit es uns möglich ist, werden wir ausschliesslich _regionale_, _saisonale_ und _fair gehandelte_ Produkte und Zutaten verwenden.

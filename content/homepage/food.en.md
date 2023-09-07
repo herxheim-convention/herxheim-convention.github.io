@@ -1,7 +1,7 @@
 ---
 title: "Food"
 weight: 40
-header_menu: true
+header_menu: false
 ---
 
 As far as possible, we will only use _regional_, _seasonal_ and _fair trade_ products and ingredients.
