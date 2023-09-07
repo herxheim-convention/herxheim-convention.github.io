@@ -4,7 +4,6 @@
 <script>
   for (const link of document.getElementsByClassName("mangled-email")) {
     const mangledEmail = link.getAttribute("data-email");
-    console.log(mangledEmail);
 
     const email = atob(atob(mangledEmail));
 
