@@ -9,7 +9,6 @@ _{{<icon class="fa fa-warning">}} Das Programm kann sich noch ändern. Schaut am
 ### Freitag, 20. Oktober 2023
 
 - **17:00** Beginn
-- **20:00** Abendessen
 
 ### Samstag, 21. Oktober 2023
 

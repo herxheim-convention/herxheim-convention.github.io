@@ -17,10 +17,6 @@ Saturday and Sunday we will serve breakfast from **9** to **12** each day - incl
 - Vegetables 🥒
 - Coffee ☕️
 
-### Dinner
-
-Friday night we cook a little something for you.
-
 ### Tarte flambée
 
 On Saturday we will have tarte flambée!

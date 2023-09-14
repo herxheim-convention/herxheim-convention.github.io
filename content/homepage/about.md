@@ -26,7 +26,6 @@ Für die vollständige Diffusion sämtlicher Jonglierutensilien steht eine Jongl
 
 Da die Warmwasserversorung der Schule in der Vergangenheit zu deterministisch war, wurden die Wasserleitungen umverlegt zu einem [500m entfernten Sportkabuff](#anreise).
 
-Um das Chaos zu nähren gibt es Freitag Abends eine Einführung in die Unschärferelation: Je schärfer das [Chili](#verpflegung), desto weniger schmeckt man die Zutaten heraus. Dies darf gerne im Selbstversuch bewiesen werden. - Q.E.G. (Quod Erat Gustandum)
 Die volle belagtechnische Willkür wird Samstags angestrebt indem wir verschiedenste kulinarische Irrfahrten auf Flammkuchen veranstallten. Das Sahnehäubchen wird unser bunt zusammengewürfeltes vegetarisches Frühstück aus frischen Mandelbrötchen und Aufstrichen (die auch gerne ihr mitbringen könnt, gerne mit Ankündigung [per Mail](#kontakt) und Zutatenliste).
 
 Wer die Chaos-Theorien in die Praxis umsetzen möchte, etwa um das Dreikörperproblem zu lösen, kann eine Forschungsgruppe eröffnen (Workshop) oder seine Ergebnisse der planlosen Fachwelt kredenzen (Open Stage). Wer abstrakten Expressionismus zu aufgeräumt findet, kann am K.O.-Tisch (Kreative Oase) dada, dadadadada dadadad dadada da dd aa ...

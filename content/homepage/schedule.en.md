@@ -9,7 +9,6 @@ _{{<icon class="fa fa-warning">}} The program is still subject to change. It's b
 ### Friday, October 20, 2023
 
 - **17:00** Start
-- **20:00** Dinner
 
 ### Saturday, October 21, 2023
 

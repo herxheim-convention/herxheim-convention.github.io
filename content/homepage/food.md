@@ -17,10 +17,6 @@ Samstag und Sonntag gibt es jeweils von **9** bis **12** Uhr Frühstück – unt
 - Gemüse 🥒
 - Kaffee ☕️
 
-### Abendessen
-
-Freitag Abend kochen wir eine Kleinigkeit für euch.
-
 ### Flammkuchen
 
 Am Samstag gibt's Flammkuchen!
