@@ -16,3 +16,5 @@ Hier geht's {{<extlink icon="fa fa-external-link" text="zur Voranmeldung" href="
 Wir bieten auch ein _Soli_-Ticket für **€ 20** an. Gerne in Anspruch nehmen, wenn das Chaos ein Loch in euren Geldbeutel gerissen hat.
 
 _Kinder unter 12 Jahren zahlen die Hälfte. Kinder unter 6 Jahren kommen kostenlos auf die Convention._
+
+_Minderjährige, die nicht in Begleitung eines Elternteils/Erziehungsberechtigten zur Convention kommen möchten, bringen bitte die [Einverständniserklärung](documents/erziehungsbeauftragung-herxheim.pdf) ausgefüllt mit und geben sie bei der Anmeldung ab._
