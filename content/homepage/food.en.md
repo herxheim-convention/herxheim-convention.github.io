@@ -16,6 +16,7 @@ Saturday and Sunday we will serve breakfast from **9** to **12** each day - incl
 - Fruits 🍎
 - Vegetables 🥒
 - Coffee ☕️
+- Tea 🍵
 
 ### Tarte flambée
 

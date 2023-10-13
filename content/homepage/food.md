@@ -16,6 +16,7 @@ Samstag und Sonntag gibt es jeweils von **9** bis **12** Uhr Frühstück – unt
 - Obst 🍎
 - Gemüse 🥒
 - Kaffee ☕️
+- Tee 🍵
 
 ### Flammkuchen
 
