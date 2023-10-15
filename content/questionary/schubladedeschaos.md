@@ -1,6 +1,7 @@
 ---
 title: "Schubladen des Chaos"
 slug: "chaos"
+header_menu: true
 header_image: "images/cover-image.png"
 ---
 
