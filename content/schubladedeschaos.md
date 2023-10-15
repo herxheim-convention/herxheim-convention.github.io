@@ -9,26 +9,24 @@ TODO kleine Beschreibung schreiben?
 
 ## Fragen
 1. Wie viele verschiedene Farben haben deine Jonglierrequisiten?
-   |Antwort|Punkte|
-   |-|-|
-   |Alle weiß|-10|
-   |1|0|
-   |2-4|2|
-   |5+|Anzahl der Farben|
-
+    |Antwort|Punkte|
+    |-|-|
+    |Alle weiß|-10|
+    |1|0|
+    |2-4|2|
+    |5+|Anzahl der Farben|
 2. Was ist dein Lieblings Jongliermuster?
-   |Antwort|Punkte|
-   |-|-|
-   |Kaskade|0|
-   |3 Beat Wave|3|
-   |Mills Mess|4|
-   |Auf der Weichbodenmatte liegen|0|
-   |Alle polyrhythmitschen Siteswaps|5|
-   |Zufällig droppen|5|
-   |Säulen|-10|
-   |Punkt- oder spiegelsymetrische Legos|-5|
-   |https://www.youtube.com/@nextgenerationsiteswaps|4|
-
+    |Antwort|Punkte|
+    |-|-|
+    |Kaskade|0|
+    |3 Beat Wave|3|
+    |Mills Mess|4|
+    |Auf der Weichbodenmatte liegen|0|
+    |Alle polyrhythmitschen Siteswaps|5|
+    |Zufällig droppen|5|
+    |Säulen|-10|
+    |Punkt- oder spiegelsymetrische Legos|-5|
+    |https://www.youtube.com/@nextgenerationsiteswaps|4|
 3. Was für Socken hast du an?
     |Antwort|Punkte|
     |-|-|
@@ -36,20 +34,19 @@ TODO kleine Beschreibung schreiben?
     |Unterschiedlich|2|
     |Socken?|0|
     |Nur eine Socke|10|
-
 4. Würfele 3x. Die Summe der Augenzahlen ist deine Punktzahl für diese Frage.
-   |Antwort|Punkte|
-   |-|-|
-   |Ich lege mein Schicksal nicht in die Hände des Zufalls|-10|
-   |Würfel| Summe der Augenzahlen|
+    |Antwort|Punkte|
+    |-|-|
+    |Ich lege mein Schicksal nicht in die Hände des Zufalls|-10|
+    |Würfel| Summe der Augenzahlen|
 5. Wie bist du zur Convention gekommen?
-   |Antwort|Punkte|
-   |-|-|
-   |Bahn/Bus|5|
-   |Auto/Wagen|0|
-   |Fahrrad/Zu Fuß|2|
-   |Wie bin ich hierher gekommen?|5|
-   |Ich war nie weg! Musste dafür lediglich 3 Jahre im Geräteraum überleben|10|
+    |Antwort|Punkte|
+    |-|-|
+    |Bahn/Bus|5|
+    |Auto/Wagen|0|
+    |Fahrrad/Zu Fuß|2|
+    |Wie bin ich hierher gekommen?|5|
+    |Ich war nie weg! Musste dafür lediglich 3 Jahre im Geräteraum überleben|10|
 
 6. Wann hast du dich vorangemeldet?
     |Antwort|Punkte|
@@ -57,8 +54,6 @@ TODO kleine Beschreibung schreiben?
     |Irgendwann halt|0|
     |Gestern|2|
     |Voranmeldung?|5|
-
-
 7.  Welcher Flammkuchen?
     |Antwort|Punkte|
     |-|-|
@@ -69,7 +64,6 @@ TODO kleine Beschreibung schreiben?
     |Chaos Mediterrane|1|
     |Sweet Randomness|1|
     |Pizza ist Flammkuchen weit überlegen|-5|
-
 8.  Wo übernachtest du?
     |Antwort|Punkte|
     |-|-|
@@ -79,7 +73,6 @@ TODO kleine Beschreibung schreiben?
     |Zelt / Wagen|2|
     |Weiss ich noch nicht|4|
     |Hotel|-5|
-
 9.  Kennst du Astro Jax?
     |Antwort|Punkte|
     |-|-|
@@ -87,7 +80,6 @@ TODO kleine Beschreibung schreiben?
     |Ich interessiere mich nicht für Astrologie|0|
     |Das war doch die Zukunft des Yo-Yo?|3|
     |Klaro! Mein liebstes Chaospendel|5|
-
 10. Wie viel verschiedene Props spielst du?
     |Antwort|Punkte|
     |-|-|
@@ -95,14 +87,12 @@ TODO kleine Beschreibung schreiben?
     |1|-5|
     |2-4|3|
     |5+|Anzahl der Props|
-
 11. Wie sollten diese Fragen sortiert sein?
     |Antwort|Punkte|
     |-|-|
     |Alphabetisch|-5|
     |Alphabetisch nach dem 3. Buchstaben des 2. Wortes|-10|
     |NIEMALS!|5|
-
 12. Welche Chaosdefinition bevorzugst du?
     |Antwort|Punkte|
     |-|-|
@@ -113,7 +103,6 @@ TODO kleine Beschreibung schreiben?
     |Das dunkle leere Nichts bevor das Universum entsanden ist|1|
     |It's what killed the dinosaurs.|2|
     |Bezeichnet ein nicht klar umgrenztes Teilgebiet der nichtlinearen Dynamik bzw. der dynamischen Systeme innerhalb der mathematischen Physik oder angewandten Mathematik. |3|
-
 13. Wovor hast du am meisten Angst?
     |Antwort|Punkte|
     |-|-|
@@ -121,7 +110,6 @@ TODO kleine Beschreibung schreiben?
     |Rechtsdrehender Tornado|2|
     |Schmetterling|5|
     |Hitzetod des Universums|0|
-
 14. Welche Ordnung bevorzugst du?
     |Antwort|Punkte|
     |-|-|
@@ -131,16 +119,13 @@ TODO kleine Beschreibung schreiben?
     |Ordnungsfanatiker|-5|
     |Ordnungsdienst|-2|
     |Zufallsanordnung|1|
-
 15. Wie viel Angst hast du vor diesem Bild?
-    
     ![matrix](/images/matrix_random.png)
     |Antwort|Punkte|
     |-|-|
     |Alles viel zu deterministisch!| 5|
     |Wie süß, die hat ja nicht mal nen Eigenvektor!|-5|
     |Ist das diese neue ominöse "Extended Siteswap" Notation?|0|
-
 16. Wie öffnest du eine Chipstüte?
     |Antwort|Punkte|
     |-|-|
@@ -149,22 +134,17 @@ TODO kleine Beschreibung schreiben?
     |In der Mitte|2|
     |Ich lasse sie stets platzen und probiere so viele Chips wie möglich mit meinem Mund zu fangen|5|
     |Ich esse immer nur schön sortierte Stapelchips|-5|
-
 17. Wie hast du bisher diese Fragen beantwortet?
     |Antwort|Punkte|
     |-|-|
     |Nach bestem Wissen und Gewissen (soweit vorhanden)|0|
     |Komplett zufällig| 10_000
-
 18. Rollkoffer oder Rucksack?
     |Antwort|Punkte|
     |-|-|
     |Rollkoffer|0|
     |Rucksack|1|
     |Jutesack|3|
-    |||
-    |||
-
 19. Braucht Herxheim eine Hüpfburg?
     |Antwort|Punkte|
     |-|-|
@@ -173,17 +153,7 @@ TODO kleine Beschreibung schreiben?
     |Wohin sonst mit den Bälgern?|0|
     |Sky is the limit!|3|
     |Als Entropiefördernde Maßnahme, immer!|5|
-
-20. Hast du schon einmal absichtlich Chaos gestiftet?
-    |Antwort|Punkte|
-    |-|-|
-    |||
-    |||
-    |||
-    |||
-  - TODO
-
-21. Was bevorzugst du?
+20. Was bevorzugst du?
     |Antwort|Punkte|
     |-|-|
     |Das totale Chaos|3|
@@ -192,8 +162,7 @@ TODO kleine Beschreibung schreiben?
     |Heilloses Durcheinander|1|
     |Das organisierte Chaos|-5|
     |Herxheim Chaos Con|5|
-
-22. Letzte Frage! Wie fühlst du dich nach diesem Fragekatalog?
+21. Letzte Frage! Wie fühlst du dich nach diesem Fragekatalog?
     |Antwort|Punkte|
     |-|-|
     |Ich habe gemischte Gefühle|1|
@@ -203,7 +172,6 @@ TODO kleine Beschreibung schreiben?
     |gaga|4|
     |ratlos|-2|
     |neugierig|3|
-
 
 # Chaos"einordnung"
 
