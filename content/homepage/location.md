@@ -19,7 +19,7 @@ Südring 11
 
 ### Anreise mit öffentlichen Verkehrsmitteln
 
-Schaut am besten auf {{<extlink icon="fa fa-external-link" text="bahn.de" href="https://www.bahn.de/">}} wie ihr mit dem ÖPNV anreist. Die nächste Bushaltestelle heißt _Herxheim/Ld, Schulzentrum_ und befindet sich direkt neben dem Eingang der Convention.
+Schaut am besten auf {{<extlink icon="fa fa-external-link" text="bahn.de" href="https://www.bahn.de/">}} wie ihr mit dem ÖPNV anreist. Die nächste Bushaltestelle heißt `Schulzentrum, Herxheim bei Landau (Pfalz)` und befindet sich direkt neben dem Eingang der Convention. Alternativ könnt ihr auch über `Speiertsgasse, Herxheim bei Landau (Pfalz)` anreisen. Dort fahren die Busse regelmäßiger, aber man muss ein wenig Fußweg (20min) in Kauf nehmen.
 
 ### Anreise mit dem Auto
 

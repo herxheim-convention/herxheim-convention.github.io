@@ -19,7 +19,7 @@ Südring 11
 
 ### Arrival by public transport
 
-It's best to check {{<extlink icon="fa fa-external-link" text="bahn.de" href="https://www.bahn.de/">}} to find out how to get there by public transport. The nearest bus stop is called _Herxheim/Ld, Schulzentrum_ and is located right next to the convention entrance.
+It's best to check {{<extlink icon="fa fa-external-link" text="bahn.de" href="https://www.bahn.de/">}} to find out how to get there by public transport. The nearest bus stop is called `Schulzentrum, Herxheim bei Landau (Pfalz)` and is located right next to the convention entrance. Alternatively, you can also travel via `Speiertsgasse, Herxheim bei Landau (Pfalz)`. There, the buses run more regularly, but you have to accept a little walk (20min).
 
 ### Arrival by car
 
