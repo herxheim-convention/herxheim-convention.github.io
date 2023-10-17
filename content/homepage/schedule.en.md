@@ -8,7 +8,7 @@ _{{<icon class="fa fa-warning">}} The program is still subject to change. It's b
 
 ### Friday, October 20, 2023
 
-- **17:00** Start
+- **16:00 – 17:00** Start
 
 ### Saturday, October 21, 2023
 

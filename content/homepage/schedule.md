@@ -8,13 +8,13 @@ _{{<icon class="fa fa-warning">}} Das Programm kann sich noch ändern. Schaut am
 
 ### Freitag, 20. Oktober 2023
 
-- **17:00** Beginn
+- **16:00 – 17:00** Beginn
 
 ### Samstag, 21. Oktober 2023
 
 - **9:00 – 12:00** Frühstück
 - **ab 14:00** Flammkuchen
-- **21:00** Open-Stage
+- **20:00** Open-Stage
 
 ### Sonntag, 22. Oktober 2023
 
