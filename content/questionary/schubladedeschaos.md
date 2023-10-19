@@ -178,11 +178,9 @@ TODO kleine Beschreibung schreiben?
 
 |Punktebereich|Schublade|
 |-|-|
-|< -70|[Beseitiger des Chaos]({{< relref "chaosbeseitiger" >}})|
-|-70 bis -30|[Ordnungshüter]({{< relref "ordnungshueter" >}})|
-|-30 bis 10|[Leugner des Chaos]({{< relref "chaosleugner" >}})|
-|10 bis 40|[Ottonormalo des Chaos]({{< relref "chaosleugner" >}})|
-|40 bis 80|[Unordnungshüter*in]({{< relref "unordnungshueter" >}})|
-|80 bis 120|[Professor Chaos]({{< relref "professorchaos" >}})|
-|ab 120|[Chaosmagier]({{< relref "chaosmagier" >}})|
+|< -60|[Beseitiger des Chaos]({{< relref "chaosbeseitiger" >}})|
+|-60 bis -20|[Ordnungshüter]({{< relref "ordnungshueter" >}})|
+|-20 bis 50|[Ottonormalo des Chaos]({{< relref "ottonormalchaot" >}})|
+|50 bis 100|[Professor Chaos]({{< relref "professorchaos" >}})|
+|ab 100|[Chaosmagier]({{< relref "chaosmagier" >}})|
 |> 9000|[Waschbär]({{< relref "waschbaer" >}})|
