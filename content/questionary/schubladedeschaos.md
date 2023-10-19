@@ -5,8 +5,9 @@ header_menu: true
 header_image: "images/cover-image.png"
 ---
 
-
-TODO kleine Beschreibung schreiben?
+Wie chaotisch bist du? Finde es heraus mit diesem Chaos-Schnelltest vom Dr. Winter Team.
+Beantworte die Fragen mit der für dich am besten passenden Antwort und notiere dir die Punktzahl.
+Zähle am Ende alle Punkte zusammen, um deine Schublade zu finden, in die du eh nicht passt.
 
 ## Fragen
 1. Wie viele verschiedene Farben haben deine Jonglierrequisiten?
@@ -178,9 +179,7 @@ TODO kleine Beschreibung schreiben?
 
 |Punktebereich|Schublade|
 |-|-|
-|< -60|[Beseitiger des Chaos]({{< relref "chaosbeseitiger" >}})|
-|-60 bis -20|[Ordnungshüter]({{< relref "ordnungshueter" >}})|
-|-20 bis 50|[Ottonormalo des Chaos]({{< relref "ottonormalchaot" >}})|
-|50 bis 100|[Professor Chaos]({{< relref "professorchaos" >}})|
-|ab 100|[Chaosmagier]({{< relref "chaosmagier" >}})|
+|< -30|[Beseitiger des Chaos]({{< relref "chaosbeseitiger" >}})|
+|-30 bis 80|[Ottonormalo des Chaos]({{< relref "ottonormalchaot" >}})|
+|ab 80|[Chaosmagier]({{< relref "chaosmagier" >}})|
 |> 9000|[Waschbär]({{< relref "waschbaer" >}})|
