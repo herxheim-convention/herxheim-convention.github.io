@@ -2,5 +2,9 @@
 title: "Hüter der Ordnung"
 ---
 
-Chaos Level < -20
+Alles hat seinen Platz und seine Zeit
+- steriele Jongliermuster
+- Schaumstoffausgekleidete Jonglierkoffer
+- monoton fallende Siteswaps 7531
 
+[< Zurück zu den Fragen]({{< relref "schubladedeschaos" >}})
