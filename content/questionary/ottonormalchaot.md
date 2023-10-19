@@ -2,7 +2,7 @@
 title: "Ottonormalo des Chaos"
 ---
 
-Wen haben wir den da? Einen Chaosanfänger?
+Wen haben wir denn da? Einen Chaosanfänger?
 
 Aller Anfang ist schwer, vor allem die richtigen Umgangsformen auf so einer chaotischen Jonglierconvention. Aber keine Sorge, wir sind für dich da! Deshalb haben wir sieben typische Convention-Chaosmomente und Verhaltensweisen für dich zum Üben zusammengestellt.
 
